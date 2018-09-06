@@ -1,6 +1,6 @@
 # PussNBootsAutoSplitter
 
-Auto Splitter for Puss 'N Boots: Pero's Great Adventure (NES)
+Auto Splitter for Puss 'N Boots: Pero's Great Adventure (NES). This script and readme is based in large part on the work of [saturnin55](https://github.com/saturnin55).
 
 - [LiveSplit](http://livesplit.github.io/) - Here you can find out more about and download LiveSplit. It is a popular timer program typically used for speedruns.
 - [ASL](https://github.com/LiveSplit/LiveSplit/blob/master/Documentation/Auto-Splitters.md) - Here you can find more information about ASL (basically C#) and autosplitters in general.
